@@ -53,3 +53,10 @@ Link:  https://linkedin.com/in/sergey-dyagil-376733120/
 * Time managment, Online Course by National University of Science and Technology "MISIS"
 * Psychology of consciousness, Online Course by SPbGU
 * Complete Data Science Bootcamp, Online Course by 365 Careers Team
+
+##**Languages:**
+
+* Russian — Native
+* English — B2 — Intermediate
+
+I'm using English since school, I was played a lot of quest games. Later I got my first speaking experience during commissioning of Tinkoff Brew plant. Since then I was working a lot with foreigin specialists at all my jobs. I like to practice my English, cause I feel how it evolve. I think that the best way to learn anything leads thru practics.
