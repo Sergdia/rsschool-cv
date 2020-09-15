@@ -13,3 +13,43 @@ Link:  https://linkedin.com/in/sergey-dyagil-376733120/
 * Hands-on-problem solving skills and process driven, able to work without daily supervision in multi task environment, often seeing what others don't sees.
 * Strong written and spoken communication skills, both Russian and English.
 * Good organizational skills and strong attention to details.
+
+##**Skills:**
+
+* Phyton Basics
+* CSS Basics
+* HTML Basics
+* JavaScript Basics
+
+##**Code examples:**
+
+
+##**Work experience:**
+
+* October 2019 — January 2020
+  Biocad
+  Junior Technologist
+
+* January 2013 — December 2018 
+  Rossudoservice
+  Sales Department Manager
+
+* October 2008 — September 2011
+  PPG Industries
+  Service team member
+
+* September 2006 — July 2008
+  Russian standard vodka
+  Operator-Technologist of Rectification unit
+
+* July 2005 — September 2006
+  San InBev
+  Brewhouse operator
+
+##**Higher education:**
+2000-2005 Saint-Petersburg Chemical-Pharmaceutical Academy
+
+##**Courses:** 
+* Time managment, Online Course by National University of Science and Technology "MISIS"
+* Psychology of consciousness, Online Course by SPbGU
+* Complete Data Science Bootcamp, Online Course by 365 Careers Team
