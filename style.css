@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap');
+
+*{
+    padding: 0;
+    box-sizing: content-box;
+    list-style: none;
+    font-family: 'Noto Sans TC', sans-serif;
+    
+}
+
+body{
+    width: 1024px;
+    display: block;
+    margin: auto;
+    font-size: 17px;
+    line-height: 18px;
+    color: white;
+    background-image: url(/462790.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-shadow: 2px 2px 3px black, 0 0 4em black;
+    
+
+}
+
+.bold {
+    font-weight: 700;
+    font-size: 22px;
+    text-transform: uppercase;
+    
+}
+
+.semi_bold {
+    font-weight: 500;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+
+.cv {
+width: auto;
+height: auto;
+display: flex;
+margin: auto;
+}
+
+.cv .left {
+    width: auto;
+    background: gray ;
+}
+
+.cv .left .profile{
+    width: auto;
+    height: auto;
+
+}
+
+.cv .left .profile img{
+    width: 280px;    
+}
+
+.cv .left .content{
+    padding: 75px 10px;
+    width: 100%;
+    height: auto;
+
+}
+
+.cv .title {
+    margin: 0 0 20px 10px;
+}
+
+
+.cv .left .bold {
+    color: #fff;
+    text-shadow: 2px 2px 3px black, 0 0 4em black;
+}
+
+.cv .right .bold {
+    color: #fff;
+    text-align: end;
+    text-shadow: 2px 2px 3px black, 0 0 4em black;
+}
+
+
+
+.cv .item {
+    margin: 0px 22px 0px 0px;
+    padding: 15px 0;
+    border-bottom: 2px solid black;
+}
+
+
+
+.cv .left  ul li{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.cv .left  ul li:last-child{
+margin-bottom: 0;
+}    
+
+.cv .left  ul li .icon{
+    color: white;
+    margin-right: 15px;
+    margin-left: 15px;
+    font-size: 16px;
+    position: relative;
+}
+
+.cv .left ul li .data{
+    color: white;
+}
+
+.cv .right {
+    width: auto;
+    padding: 25px;
+  }
